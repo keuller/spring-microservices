@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: ms-grupos
+Implementation-Version: 0.0.1
+Archiver-Version: Plexus Archiver
+Built-By: keuller
+Start-Class: com.kmdev.grupos.GruposModule
+Implementation-Vendor-Id: com.kmdev.grupos
+Spring-Boot-Version: 1.2.2.RELEASE
+Created-By: Apache Maven 3.2.2
+Build-Jdk: 1.8.0
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.PropertiesLauncher
+
