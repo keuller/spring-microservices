@@ -1,0 +1,4 @@
+/eureka-server/target/*
+/zuul-server/target/*
+/ms-contatos/target/*
+/ms-grupos/target/*
